@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.e("Test Feature ","test feature ")
+        Log.e("Test Feature3 ","test feature 3")
     }
 }
